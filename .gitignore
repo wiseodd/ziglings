@@ -3,3 +3,9 @@
 /answers/
 /patches/healed/
 /output/
+.DS_Store
+LICENSE\ 2
+README\ 2.md
+zig
+lib/
+doc/
